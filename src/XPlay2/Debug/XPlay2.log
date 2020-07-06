@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  Uic'ing XPlay2.ui...
+  Rcc'ing XPlay2.qrc...
+  Moc'ing XPlay2.h...
+  Moc'ing XSlider.h...
+   RCC: Warning: No resources in 'I:\GitHub\MyPlayer\ZeroPlayer\src\XPlay2\XPlay2.qrc'.
+  Moc'ing XVideoWidget.h...
+  main.cpp
+  XAudioPlay.cpp
+  XAudioThread.cpp
+  XDecode.cpp
+  XDecodeThread.cpp
+  XDemux.cpp
+  XDemuxThread.cpp
+  XPlay2.cpp
+  XResample.cpp
+  XSlider.cpp
+  XVideoThread.cpp
+  XVideoWidget.cpp
+  qrc_XPlay2.cpp
+  moc_XPlay2.cpp
+  moc_XSlider.cpp
+  moc_XVideoWidget.cpp
+  XPlay2.vcxproj -> I:\GitHub\MyPlayer\ZeroPlayer\src\XPlay2\..\..\bin\win32\XPlay2.exe
